@@ -6,7 +6,7 @@ function greetUser(name) {
 }
 
 // Example usage
-const userName = "Developer";
+const userName = "Data Analyst";
 console.log(greetUser(userName));
 
 // Simple calculator function
