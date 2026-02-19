@@ -7,7 +7,7 @@ function greetUser(name) {
 
 // Example usage
 const userName = "Data Analyst";
-console.log(greetUser(userName));
+console.log(greetUser(madhan));
 
 // Simple calculator function
 function add(a, b) {
